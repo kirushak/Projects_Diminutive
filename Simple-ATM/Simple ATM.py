@@ -2,7 +2,7 @@ def main():
     pinCode = ["0209", "2004", "1404", "0602"] 
     accountHoldersName = ["kirushak", "sherphia", "sanjai", "bhasya"]
     accountNumber = ['134', '137', "136", "133"]
-    balance = [567000, 71873110, 2341871, 275638, 91820]
+    balance = [567000, 71873110, 2341871, 275638]
 
     flag = False
     for i in range (0,999999999):
